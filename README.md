@@ -1,6 +1,4 @@
-Here's a README for your calculator app:
 
----
 
 # 📱 Flutter Calculator App  
 
